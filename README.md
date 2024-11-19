@@ -1,4 +1,4 @@
-# Bank-Loan-Metrics  - Live Report Link [ https://app.powerbi.com/view?r=eyJrIjoiNmZhZmU4NmEtNWU4OS00YmJhLTgyMDQtZTg5NDAxMjQyY2M5IiwidCI6IjMyNjE3MTFkLTgyMGUtNDVlMC1hNjQwLWRkZTQxM2RiYjc1NSJ9]
+# Bank-Loan-Metrics  - [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNmZhZmU4NmEtNWU4OS00YmJhLTgyMDQtZTg5NDAxMjQyY2M5IiwidCI6IjMyNjE3MTFkLTgyMGUtNDVlMC1hNjQwLWRkZTQxM2RiYjc1NSJ9)
 
 Key Performance Indicators (KPIs) Requirements:
 Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
